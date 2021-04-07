@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @richrdb
 - 👀 I’m interested in home automation
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on null
-- 📫 How to reach me null
+- 💞️ I’m looking to collaborate on empty.field
+- 📫 How to reach me empty.field
 
 <!---
 richrdb/richrdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
