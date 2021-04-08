@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richrdb
-- 👀 I’m interested in home automation
+- 👀 I’m interested in home automation, such as Node-RED and Home Assistant
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on empty.field
 - 📫 How to reach me empty.field
